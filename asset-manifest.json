@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/block-game-solver/static/css/main.836c7d0f.css",
+    "main.js": "/block-game-solver/static/js/main.f1e7d6cb.js",
+    "static/js/453.f436e757.chunk.js": "/block-game-solver/static/js/453.f436e757.chunk.js",
+    "index.html": "/block-game-solver/index.html",
+    "main.836c7d0f.css.map": "/block-game-solver/static/css/main.836c7d0f.css.map",
+    "main.f1e7d6cb.js.map": "/block-game-solver/static/js/main.f1e7d6cb.js.map",
+    "453.f436e757.chunk.js.map": "/block-game-solver/static/js/453.f436e757.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.836c7d0f.css",
+    "static/js/main.f1e7d6cb.js"
+  ]
+}
