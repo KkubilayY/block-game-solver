@@ -1,0 +1,18 @@
+.item-box {
+  border: 1px solid #999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  cursor: pointer;
+  padding: 4px;
+}
+
+.dynamic-item-grid {
+  display: grid;
+  gap: 2px;
+}
+
+.item-cell {
+  width: 16px;
+  height: 16px;
+}

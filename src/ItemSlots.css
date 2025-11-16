@@ -1,0 +1,43 @@
+.item-slots {
+  display: flex;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.slot {
+  position: relative;
+  border: 1px solid #999;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 4px;
+}
+
+.dynamic-slot-grid {
+  display: grid;
+  gap: 2px;
+}
+
+.slot-cell {
+  width: 16px;
+  height: 16px;
+}
+
+.remove-btn {
+  position: absolute;
+  top: -8px;
+  right: -8px;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.empty-slot {
+  width: 50px;
+  height: 50px;
+  background-color: #eee;
+}

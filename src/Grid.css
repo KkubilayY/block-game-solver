@@ -1,0 +1,25 @@
+.grid {
+  display: inline-block;
+  border: 2px solid #333;
+}
+
+.grid-row {
+  display: flex;
+}
+
+.grid-cell {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  user-select: none;
+  transition: background-color 0.2s;
+}
+
+.grid-cell.occupied {
+  background-color: #4caf50; /* green for occupied */
+  color: white;
+}
